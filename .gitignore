@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# Test generated files
+data/test_processed_dataset.csv
+data/test_processed_cleaned_loan_prediction.csv
+
+# Generated processed data
+data/processed_dataset.csv
+
+# Streamlit cache
+.streamlit/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
